@@ -1,1 +1,1 @@
-hc-clustering
+Hierarchical clustering
