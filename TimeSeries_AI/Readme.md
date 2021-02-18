@@ -1,1 +1,1 @@
-Udacity course for Time series analysis
+Coursera Time Series Course 
