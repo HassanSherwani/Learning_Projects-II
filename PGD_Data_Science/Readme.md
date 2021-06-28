@@ -6,9 +6,9 @@ Online diploma taken at McCombs School of Business,University of Texas at Austin
 
 1- Acquisition Risk Analytics
 
-2- Bank Marketing -Acquisition Analytics/
+2- Bank Marketing - Acquisition Analytics
 
-3- Car Price Prediction- Multiple Linear Regression
+3- Car Price Prediction
 
 4- Gramener Case Study
 
