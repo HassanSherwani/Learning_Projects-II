@@ -2,7 +2,7 @@
 
 Online diploma taken at McCombs School of Business,University of Texas at Austin.
 
-# Course Contents
+# Applied Projects
 
 1- Acquisition Risk Analytics
 
