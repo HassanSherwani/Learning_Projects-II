@@ -1,4 +1,4 @@
-### [Applied Data Science with Python Specialization](https://www.coursera.org/programs/jecrc-university-ma-mmj0q/browse?productId=xKZ-Rh0LEeaVXQ4hxYGBZw&productType=s12n&query=applied+data+science+with&showMiniModal=true)
+### [Applied Data Science with Python Specialization: University of Michigan](https://www.coursera.org/programs/jecrc-university-ma-mmj0q/browse?productId=xKZ-Rh0LEeaVXQ4hxYGBZw&productType=s12n&query=applied+data+science+with&showMiniModal=true)
 This repository contains solutions to the 5 courses under the Specialization - Applied Data Science with Python by University of Michigan on Coursera.
 The various 5 courses under this specialization are:
 <ul>
